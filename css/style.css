@@ -282,8 +282,6 @@ img {
 .list-button {
   display: flex;
   justify-content: center;
-  width: 575px;
-  margin: 0px auto;
   margin-bottom: 50px;
 }
 .button.all {
